@@ -37,7 +37,7 @@ body {
 
 .head > a {
 	position:absolute;
-	top: 0px;
+	top: 0;
 	right: 0;
 	color: #cdcdcd;
 	text-decoration: none;
@@ -239,14 +239,13 @@ li {
 	width: 63px;
 	height: 22px;
 	background-color: #fe9b00;
-	bottom: 0px;
-	right: 0px;
+	bottom: 0;
+	right: 0;
 
 }
 
 .view-bar-nd a {
 	padding: 0;
-	margin: 0;
 	font-size: 12px;
 	margin-left: 12px;
 	margin-top: 5px;
@@ -300,7 +299,6 @@ li {
 }
 
 .conect {
-	margin: 0;
 	width: 175px;
 	height: 100px;
 	margin-left: 77px;
